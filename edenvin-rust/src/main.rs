@@ -1,3 +1,3 @@
 fn main() {
-    let _run = aoc2021::day1a::run();
+    let _run = aoc2021::day2b::run();
 }
